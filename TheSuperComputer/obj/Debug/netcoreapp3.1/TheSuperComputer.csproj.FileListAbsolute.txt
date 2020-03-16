@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.exe
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.deps.json
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.json
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.runtimeconfig.dev.json
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.dll
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp3.1\TheSuperComputer.pdb
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.AssemblyInfo.cs
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.dll
+C:\Users\User\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp3.1\TheSuperComputer.pdb
